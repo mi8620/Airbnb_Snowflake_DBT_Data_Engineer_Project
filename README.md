@@ -327,10 +327,6 @@ dbt automatically tracks data lineage, showing:
 
 This project is part of a data engineering portfolio demonstration.
 
-## 👤 Author
-
-**Project**: Airbnb Data Engineering Pipeline  
-**Technologies**: Snowflake, dbt, AWS, Python
 
 ## 🐛 Troubleshooting
 
